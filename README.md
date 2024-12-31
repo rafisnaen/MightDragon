@@ -6,4 +6,5 @@ How to play it:
 - Attack the dragon until the dragon's hp runs out.  
 - Can buy potions by current currencies to increase stats.  
 - If you die, it will be repeated from the checkpoint stage.  
-- Checkpoints will be set every 5 stages.  
+- Checkpoints will be set every 5 stages.  <br/>
+  Me and my 2 friends ( shout out to jeremy and gilmore ) was made this code. Got 100/100 score from our university.
